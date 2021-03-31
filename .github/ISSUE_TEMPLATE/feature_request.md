@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: This is a markdown-style template
 title: ''
 labels: ''
 assignees: ''
